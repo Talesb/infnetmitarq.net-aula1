@@ -2,7 +2,7 @@
 
 namespace IntroToDDD.Domain.Entitites
 {
-    public class Person
+    public class Contact
     {
         public Guid Id { get; set; }
         public String Name { get; set; }
