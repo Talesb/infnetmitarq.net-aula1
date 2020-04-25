@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace IntroToDDD.Domain
+namespace IntroToDDD.Domain.Entitites
 {
     public class Person
     {
