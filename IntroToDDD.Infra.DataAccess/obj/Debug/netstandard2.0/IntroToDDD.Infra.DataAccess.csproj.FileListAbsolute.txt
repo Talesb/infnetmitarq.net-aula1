@@ -1,0 +1,5 @@
+D:\workspaces-estudo\visualstudio\solutions\IntroToDDD\IntroToDDD.Infra.DataAccess\bin\Debug\netstandard2.0\IntroToDDD.Infra.DataAccess.deps.json
+D:\workspaces-estudo\visualstudio\solutions\IntroToDDD\IntroToDDD.Infra.DataAccess\bin\Debug\netstandard2.0\IntroToDDD.Infra.DataAccess.dll
+D:\workspaces-estudo\visualstudio\solutions\IntroToDDD\IntroToDDD.Infra.DataAccess\obj\Debug\netstandard2.0\IntroToDDD.Infra.DataAccess.csprojAssemblyReference.cache
+D:\workspaces-estudo\visualstudio\solutions\IntroToDDD\IntroToDDD.Infra.DataAccess\obj\Debug\netstandard2.0\IntroToDDD.Infra.DataAccess.AssemblyInfoInputs.cache
+D:\workspaces-estudo\visualstudio\solutions\IntroToDDD\IntroToDDD.Infra.DataAccess\obj\Debug\netstandard2.0\IntroToDDD.Infra.DataAccess.AssemblyInfo.cs

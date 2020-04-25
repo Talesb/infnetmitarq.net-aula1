@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infrastructure", "3 - I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToDDD.Domain", "IntroToDDD.Domain\IntroToDDD.Domain.csproj", "{219B0B43-390A-49AF-AAE3-3AF2DA53BA3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToDDD.Infra.DataAccess", "IntroToDDD.Infra.DataAccess\IntroToDDD.Infra.DataAccess.csproj", "{C9E9EAA8-8C37-4DB1-925D-2FF452E00EDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +25,17 @@ Global
 		{219B0B43-390A-49AF-AAE3-3AF2DA53BA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{219B0B43-390A-49AF-AAE3-3AF2DA53BA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{219B0B43-390A-49AF-AAE3-3AF2DA53BA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E9EAA8-8C37-4DB1-925D-2FF452E00EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E9EAA8-8C37-4DB1-925D-2FF452E00EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E9EAA8-8C37-4DB1-925D-2FF452E00EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E9EAA8-8C37-4DB1-925D-2FF452E00EDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{219B0B43-390A-49AF-AAE3-3AF2DA53BA3B} = {0108EBA7-59F7-48E5-8A35-C8319D9AE239}
+		{C9E9EAA8-8C37-4DB1-925D-2FF452E00EDF} = {E176002E-3984-46D2-A945-1628788CC673}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A105520-18C0-45DF-8028-A5257862D62A}
